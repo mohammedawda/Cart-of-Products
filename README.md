@@ -1,4 +1,4 @@
-# e-commerce
+# Cart-of-Products
 e-commerce practice by php
 
 ## my project notes:
